@@ -13,8 +13,7 @@ export default function App() {
           <a href="https://github.com/Lucchetta/react-weather-app"
         target="_blank"></a>
 
-          
-
+      
       </footer>
     
       </div>

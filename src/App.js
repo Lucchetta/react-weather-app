@@ -1,17 +1,20 @@
 import React from "react";
+import Weather from "./Weather";
+import "./App.css";
 
-import './App.css';
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-      <h1> Weather App </h1>
+      <Weather />
       <footer>
         
-        This project is created by Francesca McCall and is open-source on github
+        This project is created by Francesca McCall and is{" "}
           <a href="https://github.com/Lucchetta/react-weather-app"
-        target="_blank"></a>
+        target="_blank">
+          open-source on github
+        </a>
 
       
       </footer>

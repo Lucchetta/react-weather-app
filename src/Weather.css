@@ -1,5 +1,5 @@
 .Weather {
-    background-color: rgb(54, 145, 151);
+    background: linear-gradient(blue, #9198e5);
     font-family: Arial, sans-serif;
     border: 1px solid #dadde1;
     padding: 16px;
@@ -28,16 +28,15 @@
     list-style: none;
     
 }
-.Weather img {
-    height: 64px;
-    width: 64px;
+.Weather canvas {
     margin-right: 10px;
+    margin-top: 5px;
     display: inline-block;
 }
 .Weather .temperature {
     font-weight: bold;
     color: rgb(33, 33, 33);
-    font-size: 48px;
+    font-size: 60px;
     font-weight: 200;
 
 }

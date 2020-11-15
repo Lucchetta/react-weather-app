@@ -1,5 +1,5 @@
 .Weather {
-    background: linear-gradient(blue, #9198e5);
+    background: linear-gradient(rgb(230, 156, 20), #9198e5);
     font-family: Arial, sans-serif;
     border: 1px solid #dadde1;
     padding: 16px;
@@ -45,5 +45,5 @@
     font-size: 18px;
     font-weight:bold;
     position:relative;
-    top: -20px;
+    top: -28px;
 }

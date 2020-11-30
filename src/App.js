@@ -3,11 +3,13 @@ import Weather from "./Weather";
 import "./App.css";
 
 
+
+
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-      <Weather defaultCity="New York"/>
+      <Weather defaultCity="Seattle"/>
       <footer>
         
         This project is created by Francesca McCall and is{" "}

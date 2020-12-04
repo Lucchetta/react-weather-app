@@ -16,7 +16,7 @@ export default function App() {
       <a
           href="https://github.com/Lucchetta/react-weather-app"
           target="_blank"
-          rel="noopener norferrer"
+          rel="noopener noreferrer"
           >
             open-source on github
           </a>
